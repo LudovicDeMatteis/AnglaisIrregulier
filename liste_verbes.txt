@@ -1,0 +1,3 @@
+be;was,were;been;etre
+beat;beat;beaten;battre
+become;became;become;devenir
