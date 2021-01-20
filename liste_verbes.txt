@@ -1,3 +1,100 @@
 be;was,were;been;etre
 beat;beat;beaten;battre
 become;became;become;devenir
+begin;began;begun;commencer
+bet;bet;bet;parier
+bind;bound;bound;relier
+bite;bit;bitten;mordre
+bleed;bled;bled;saigner
+blow;blew;blown;souffler
+break;broke;broken;casser
+bring;brought;brought;apporter
+build;built;built;construire
+burn;burnt;burnt;bruler
+burst;burst;burst;eclater
+buy;bought;bought;acheter
+catch;caught;caught;attraper
+choose;chose;chosen;choisir
+come;came;come;venir
+cost;cost;cost;couter
+cut;cut;cut;couper
+do;did;done;faire
+draw;drew;drawn;dessiner
+dream;dreamt;dreamt;rever
+drink;drank;drunk;boire
+drive;drove;driven;conduire
+eat;ate;eaten;manger
+fall;fell;fallen;tomber
+feed;fed;fed;nourrir
+feel;felt;felt;se sentir,ressentir
+fight;fought;fought;se battre
+find;found;found;trouver
+fly;flew;flown;voler(dans les airs)
+forget;forgot;forgotten;oublier
+forgive;forgave;forgiven;pardonner
+freeze;froze;frozen;geler,se figer
+get;got;got;obtenir
+give;gave;given;donner
+go;went;gone;aller
+grown;grew;grown;grandir
+hang;hung;hung;pendre,suspendre
+have;had;had;avoir
+hear;heard;heard;entendre
+hide;hid;hidden;cacher,se cacher
+hit;hit;hit;frapper
+hold;held;held;tenir
+hurt;hurt;hurt;blesser,faire mal,avoir mal
+keep;kept;kept;garder
+know;knew;known;savoir,connaitre
+lay;laid;laid;poser
+learn;learnt;learnt;apprendre
+leave;left;left;quitter,partir,laisser
+lend;lent;lent;preter
+let;let;let;permettre,laisser
+lie;lay;lain;s'allonger
+lose;lost;lost;perdre
+make;made;made;faire,fabriquer
+mean;meant;meant;vouloir dire
+meet;met;met;rencontrer
+pay;paid;paid;payer
+put;put;put;mettre
+read;read;read;lire
+rent;rent;rent;louer
+ride;rode;ridden;aller a bicyclette, aller a cheval
+ring;rang;rung;sonner,telephoner
+rise;rose;risen;monter,s'elever
+run;ran;run;courir
+say;said;said;dire
+see;saw;seen;voir
+sell;sold;sold;vendre
+send;sent;sent;envoyer
+set;set;set;poser,placer,mettre
+shake;shook;shaken;trembler
+shine;shone;shone;briller;
+shoot;shot;shot;tirer,marquer,tourner(film)
+show;showed;shown;montrer
+shut;shut;shut;fermer
+sing;sang;sung;chanter
+sit;sat;sat;s'asseoir
+sleep;slept;slept;dormir
+smell;smelt;smelt;sentir(odorat)
+speak;spoke;spoken;parler
+spend;spent;spent;depenser,passer
+spread;spread;spread;etaler,repandre
+stand;stood;stood;se tenir debout
+steal;stole;stolen;voler,derober
+strike;struck;struck;frapper,donner un coup
+swear;swore;sworn;jurer
+swin;swam;swum;nager
+take;took;taken;prendre
+teach;taught;taught;enseigner,apprendre
+tear;tore;torn;dechirer
+tell;told;told;dire,raconter
+think;thought;thought;penser
+throw;threw;thrown;jeter,lancer
+understand;understood;understood;comprendre
+upset;upset;upset;contrarier
+wake up;woke up;woken up;se reveiller
+wear;wore;worn;porter
+win;won;won;gagner
+write;wrote;written;ecrire
