@@ -8,3 +8,4 @@ Dans la fenetre qui s'ouvre taper 'python main.py' puis Entrée. Et voilà, c'es
 
 En cas d'erreur il peut être bien de prendre une photo et de me l'envoyer aussi !
   
+Pour reset les scores, il faut juste supprimer le fichier ou ce qu'il contient.
